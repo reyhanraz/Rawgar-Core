@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
  
   s.source_files = "Core/**/*.{swift}"
 
-  s.dependency = 'RealmSwift'
+  s.dependency 'RealmSwift', '~> 10.0'
  
   s.swift_version = "5.5"
  

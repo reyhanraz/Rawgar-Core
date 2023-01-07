@@ -6,5 +6,6 @@ target 'Core' do
   use_frameworks!
 
   # Pods for Core
+  pod 'RealmSwift', '~> 10.0'
 
 end
